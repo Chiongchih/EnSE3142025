@@ -1,0 +1,10 @@
+100.00	1	0		1	root
+100.00	1	0	1	131567	  cellular organisms
+100.00	1	0		2	    Bacteria
+100.00	1	0	P	1224	      Pseudomonadota
+100.00	1	0	C	1236	        Gammaproteobacteria
+100.00	1	0	O	91347	          Enterobacterales
+100.00	1	0	F	543	            Enterobacteriaceae
+100.00	1	0	G	544	              Citrobacter
+100.00	1	0	G1	1344959	                Citrobacter freundii complex
+100.00	1	1	S	57706	                  Citrobacter braakii
